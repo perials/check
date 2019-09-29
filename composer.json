@@ -1,4 +1,5 @@
 {
+    "name": "perials/check",
     "autoload": {
         "psr-4": {"Abc\\": "src/xyz"}
     }
