@@ -1,8 +1,12 @@
 {
     "name": "perials/check",
-    "description": "Checking composer",
-    "autoload": {
-        "psr-4": {"Abc\\": "src/xyz"}
-    },
-    "license": "MIT"
+    "description": "Package for testing packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Perials",
+            "email": "info@perials.com"
+        }
+    ],
+    "require": {}
 }
