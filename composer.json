@@ -8,5 +8,8 @@
             "email": "info@perials.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"Abc\\": "src/xyz"}
+    },
     "require": {}
 }
