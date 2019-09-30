@@ -1,5 +1,6 @@
 {
     "name": "perials/check",
+    "description": "Checking composer",
     "autoload": {
         "psr-4": {"Abc\\": "src/xyz"}
     },
